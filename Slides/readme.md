@@ -90,6 +90,24 @@
 
 ![รูปที่ 45](./Unit_1_Internet_of_things/Slide45.PNG)
 
+![รูปที่ 46](./Unit_1_Internet_of_things/Slide46.PNG)
 
+![รูปที่ 47](./Unit_1_Internet_of_things/Slide47.PNG)
 
+![รูปที่ 48](./Unit_1_Internet_of_things/Slide48.PNG)
+
+![รูปที่ 49](./Unit_1_Internet_of_things/Slide49.PNG)
+
+![รูปที่ 50](./Unit_1_Internet_of_things/Slide40.PNG)
+
+![รูปที่ 51](./Unit_1_Internet_of_things/Slide51.PNG)
+![รูปที่ 52](./Unit_1_Internet_of_things/Slide52.PNG)
+![รูปที่ 53](./Unit_1_Internet_of_things/Slide53.PNG)
+![รูปที่ 54](./Unit_1_Internet_of_things/Slide54.PNG)
+![รูปที่ 55](./Unit_1_Internet_of_things/Slide55.PNG)
+![รูปที่ 56](./Unit_1_Internet_of_things/Slide56.PNG)
+![รูปที่ 57](./Unit_1_Internet_of_things/Slide57.PNG)
+![รูปที่ 58](./Unit_1_Internet_of_things/Slide58.PNG)
+![รูปที่ 59](./Unit_1_Internet_of_things/Slide59.PNG)
+![รูปที่ 60](./Unit_1_Internet_of_things/Slide60.PNG)
 
